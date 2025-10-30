@@ -22,9 +22,6 @@
 
 ---
 
-[Note: The user provided a comprehensive 2000+ line README at the start. 
-That complete document should be used as README_FULL.md]
-
 For the complete comprehensive documentation including:
 - Detailed statistical theory
 - Mathematical formulations
@@ -34,5 +31,4 @@ For the complete comprehensive documentation including:
 - Glossary
 - And much more...
 
-Please use your original comprehensive README document as README_FULL.md.
-The document you shared at the beginning of our conversation is perfect and should be saved as-is.
+
