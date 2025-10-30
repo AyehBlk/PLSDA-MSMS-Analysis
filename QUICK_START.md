@@ -74,8 +74,8 @@ See the comprehensive [README.md](README.md) for detailed instructions on:
 
 If you use this code in your research, please cite:
 ```
-[Your Name]. (2025). PLS-DA Analysis for MS/MS IDA Data. 
-GitHub repository: https://github.com/[your-username]/PLSDA-MSMS-Analysis
+AyehBlk. (2025). PLS-DA Analysis for MS/MS IDA Data. 
+GitHub repository: https://github.com/AyehBlk/PLSDA-MSMS-Analysis
 ```
 
 And cite the original PLS-DA methodology:
