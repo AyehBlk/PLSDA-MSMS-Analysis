@@ -198,7 +198,7 @@ If you use this code in your research, please cite:
 
 **This repository:**
 ```
-[Your Name]. (2025). PLS-DA Analysis for MS/MS IDA Data. 
+AyebBlk. (2025). PLS-DA Analysis for MS/MS IDA Data. 
 GitHub: https://github.com/[your-username]/PLSDA-MSMS-Analysis
 ```
 
@@ -279,8 +279,8 @@ If you find this useful, please consider giving it a star! ⭐
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
+**Ayeh Bolouki**
+- GitHub: [@AyehBlk](https://github.com/your-username)
 - Role: Computational Biologist / Bioinformatician
 
 ---
@@ -295,7 +295,7 @@ If you find this useful, please consider giving it a star! ⭐
 ---
 
 <p align="center">
-  Made with ❤️ for the metabolomics and bioinformatics community
+ Made with ❤️ - Let's make free science for everybody around the world.
 </p>
 
 <p align="center">
