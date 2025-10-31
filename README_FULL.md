@@ -249,10 +249,10 @@ That's it! The example runs in ~5-10 seconds.
 - Dashed ellipses = 95% confidence regions
 
 **How to interpret:**
-- ✅ **Good**: Classes form separate clusters
-- ✅ **Excellent**: No overlap between ellipses
-- ⚠️ **Warning**: Overlapping points suggest similar samples
-- ❌ **Problem**: Complete overlap means classes are indistinguishable
+-  **Good**: Classes form separate clusters
+-  **Excellent**: No overlap between ellipses
+-  **Warning**: Overlapping points suggest similar samples
+-  **Problem**: Complete overlap means classes are indistinguishable
 
 **Example interpretation:**
 ```
@@ -491,10 +491,10 @@ print(summary)
 ```
 
 **What to look for:**
-- ✅ Test accuracy > 0.80 (good)
-- ✅ Test accuracy > 0.90 (excellent)
-- ⚠️ Test accuracy < 0.70 (needs improvement)
-- ⚠️ Large gap between CV and test accuracy (overfitting)
+-  Test accuracy > 0.80 (good)
+-  Test accuracy > 0.90 (excellent)
+-  Test accuracy < 0.70 (needs improvement)
+-  Large gap between CV and test accuracy (overfitting)
 
 **If accuracy is low:**
 1. Collect more samples (minimum 20 per class)
@@ -881,10 +881,10 @@ important_features <- vip_df$Feature[vip_df$VIP > 0.8]
 ### 2. Feature Selection
 
 **When to filter features:**
-- ✅ >500 features with <100 samples
-- ✅ Many low-variance features
-- ✅ Highly correlated features (>0.95)
-- ✅ Features with >20% missing values
+-  >500 features with <100 samples
+-  Many low-variance features
+-  Highly correlated features (>0.95)
+-  Features with >20% missing values
 
 **How to filter:**
 ```r
@@ -900,7 +900,7 @@ cor_matrix <- cor(features_scaled[, keep_features])
 features_filtered <- features_scaled[, keep_features]
 ```
 
-**⚠️ Warning**: Don't use test set information for feature selection!
+** Warning**: Don't use test set information for feature selection!
 
 ### 3. Handling Batch Effects
 
@@ -955,12 +955,12 @@ plot(pca$x[, 1:2], col = as.numeric(my_data$Batch), pch = 16)
 
 ### 5. Reproducibility Checklist
 
-✅ **Set random seed**
+ **Set random seed**
 ```r
 set.seed(123)  # Use same seed for reproducible results
 ```
 
-✅ **Document preprocessing steps**
+ **Document preprocessing steps**
 ```r
 # Keep notes on:
 # - Transformation used (log2, log10, sqrt)
@@ -969,7 +969,7 @@ set.seed(123)  # Use same seed for reproducible results
 # - Outlier removal criteria
 ```
 
-✅ **Save preprocessing parameters**
+ **Save preprocessing parameters**
 ```r
 # Save for applying to new data
 preprocessing_params <- list(
@@ -981,7 +981,7 @@ preprocessing_params <- list(
 saveRDS(preprocessing_params, "preprocessing_params.rds")
 ```
 
-✅ **Record model parameters**
+ **Record model parameters**
 ```r
 # Already saved in plsda_model_summary.csv!
 ```
