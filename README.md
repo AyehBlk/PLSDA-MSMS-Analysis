@@ -11,11 +11,11 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This repository provides a comprehensive, production-ready implementation of PLS-DA specifically designed for MS/MS (Mass Spectrometry) IDA (Information Dependent Acquisition) data analysis. Perfect for metabolomics, proteomics, and biomarker discovery workflows.
 
-### ✨ Key Features
+###  Key Features
 
 - **Complete PLS-DA implementation** using NIPALS algorithm
 - **Zero dependencies** - uses only base R
