@@ -17,18 +17,18 @@ This repository provides a comprehensive, production-ready implementation of PLS
 
 ### ✨ Key Features
 
-- ✅ **Complete PLS-DA implementation** using NIPALS algorithm
-- ✅ **Zero dependencies** - uses only base R
-- ✅ **Cross-validation** for optimal model selection
-- ✅ **Variable Importance (VIP)** scores for biomarker discovery
-- ✅ **7 publication-ready visualizations**
-- ✅ **4 detailed CSV exports** for further analysis
-- ✅ **Comprehensive documentation** with examples
-- ✅ **Example dataset included** for immediate testing
+- **Complete PLS-DA implementation** using NIPALS algorithm
+- **Zero dependencies** - uses only base R
+- **Cross-validation** for optimal model selection
+- **Variable Importance (VIP)** scores for biomarker discovery
+- **7 publication-ready visualizations**
+- **4 detailed CSV exports** for further analysis
+- **Comprehensive documentation** with examples
+- **Example dataset included** for immediate testing
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
@@ -54,11 +54,11 @@ Rscript plsda_analysis.R
 3. Create 7 plots and 4 data files
 4. Display comprehensive results summary
 
-⏱️ **Runtime:** ~5-10 seconds for example data
+**Runtime:** ~5-10 seconds for example data
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 The analysis automatically generates:
 
@@ -79,7 +79,7 @@ The analysis automatically generates:
 
 ---
 
-## 📖 Documentation
+## Documentation
 
 ### For Beginners
 - **[QUICK_START.md](QUICK_START.md)** - Get running in 5 minutes
@@ -96,7 +96,7 @@ The analysis automatically generates:
 
 ---
 
-## 🔬 Use Cases
+## Use Cases
 
 Perfect for:
 - **Metabolomics** - Identify metabolite biomarkers between groups
@@ -108,7 +108,7 @@ Perfect for:
 
 ---
 
-## 💡 Why This Implementation?
+## Why This Implementation?
 
 ### Advantages of PLS-DA for MS/MS Data
 
@@ -130,7 +130,7 @@ Perfect for:
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - **R** version ≥ 4.0.0
 - **No additional packages required!**
@@ -139,7 +139,7 @@ Perfect for:
 
 ---
 
-## 🎓 Methodology
+## Methodology
 
 This implementation uses:
 - **NIPALS algorithm** for PLS component extraction
@@ -152,7 +152,7 @@ See [README_FULL.md](README_FULL.md) Section 13 for complete statistical backgro
 
 ---
 
-## 📝 Using Your Own Data
+## Using Your Own Data
 
 Your CSV should have this structure:
 
@@ -179,7 +179,7 @@ labels <- factor(my_data$Class)
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Areas for improvement:
 - Additional preprocessing methods
@@ -192,7 +192,7 @@ Please open an issue or submit a pull request.
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this code in your research, please cite:
 
@@ -222,16 +222,16 @@ Systems, 58(2), 109-130.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **You are free to:**
-- ✅ Use for academic research
-- ✅ Use for commercial projects
-- ✅ Modify and distribute
-- ✅ Include in your own projects
+-  Use for academic research
+-  Use for commercial projects
+-  Modify and distribute
+-  Include in your own projects
 
 **Just include the license and attribution!**
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -253,12 +253,12 @@ See [README_FULL.md](README_FULL.md) Section 12 for complete troubleshooting gui
 
 ---
 
-## 📞 Support
+## Support
 
-- 📖 Check the [comprehensive documentation](README_FULL.md)
-- ❓ Read the [FAQ](README_FULL.md#frequently-asked-questions-faq)
-- 🐛 Open an [issue](https://github.com/[your-username]/PLSDA-MSMS-Analysis/issues) for bugs
-- 💬 Start a [discussion](https://github.com/[your-username]/PLSDA-MSMS-Analysis/discussions) for questions
+- Check the [comprehensive documentation](README_FULL.md)
+- Read the [FAQ](README_FULL.md#frequently-asked-questions-faq)
+- Open an [issue](https://github.com/[your-username]/PLSDA-MSMS-Analysis/issues) for bugs
+- Start a [discussion](https://github.com/[your-username]/PLSDA-MSMS-Analysis/discussions) for questions
 
 ---
 
@@ -285,9 +285,9 @@ If you find this useful, please consider giving it a star! ⭐
 
 ---
 
-## 🎯 Project Status
+## Project Status
 
-✅ **Active Development** - Maintained and open to contributions
+ **Active Development** - Maintained and open to contributions
 
 **Current Version:** 1.0
 **Last Updated:** October 2025
