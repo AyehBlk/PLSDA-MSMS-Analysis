@@ -199,7 +199,7 @@ If you use this code in your research, please cite:
 **This repository:**
 ```
 AyebBlk. (2025). PLS-DA Analysis for MS/MS IDA Data. 
-GitHub: https://github.com/[your-username]/PLSDA-MSMS-Analysis
+GitHub: https://github.com/AyehBlk/PLSDA-MSMS-Analysis
 ```
 
 **Original PLS-DA method:**
