@@ -257,8 +257,8 @@ See [README_FULL.md](README_FULL.md) Section 12 for complete troubleshooting gui
 
 - Check the [comprehensive documentation](README_FULL.md)
 - Read the [FAQ](README_FULL.md#frequently-asked-questions-faq)
-- Open an [issue](https://github.com/[your-username]/PLSDA-MSMS-Analysis/issues) for bugs
-- Start a [discussion](https://github.com/[your-username]/PLSDA-MSMS-Analysis/discussions) for questions
+- Open an [issue](https://github.com/AyehBlk/PLSDA-MSMS-Analysis/issues) for bugs
+- Start a [discussion](https://github.com/AyehBlk/PLSDA-MSMS-Analysis/discussions) for questions
 
 ---
 
@@ -280,7 +280,7 @@ If you find this useful, please consider giving it a star! ⭐
 ## 👤 Author
 
 **Ayeh Bolouki**
-- GitHub: [@AyehBlk](https://github.com/your-username)
+- GitHub: [@AyehBlk](https://github.com/AyehBlk)
 - Role: Computational Biologist / Bioinformatician
 
 ---
